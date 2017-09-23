@@ -7,3 +7,4 @@ http://learnvimscriptthehardway.stevelosh.com
 3. Basic Mapping
 4. Modal Mapping
 5. Strict Mapping
+6. Leaders
