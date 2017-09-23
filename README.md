@@ -5,3 +5,5 @@ http://learnvimscriptthehardway.stevelosh.com
 1. Echoing Messages
 2. Setting Options
 3. Basic Mapping
+4. Modal Mapping
+5. Strict Mapping

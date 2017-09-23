@@ -9,5 +9,5 @@ set nowrap sidescroll=30
 set shiftround
 set listchars=tab:»—,nbsp:—,trail:…
 
-map <space> $
-map <leader>p D"0p
+noremap <space> $
+noremap <leader>p D"0p
